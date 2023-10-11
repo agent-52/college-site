@@ -4,29 +4,54 @@ body{
     
     justify-content: center;
     gap: 50px;
-    background-color: rgb(57, 58, 59) ;
-}
-.unitboxes,.test1{
-    display: flex;
-    flex-direction: column;
-    background-color:;
-    color: white;
-    border-bottom: 5px solid rgb(235, 93, 235);
-    border-radius: 15px;
     
 }
+.unitboxes{
+    display: flex;
+    flex-direction: row;
+    background-color:  #1F2937;
+    color: white;
+    border-bottom: 5px solid #802BB1;
+    border-radius: 15px;
+    justify-content: space-evenly;
+    
+}
+
+.unitboxes .left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.iii{
+    margin-right: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 400px;
+    height: auto;
+}
+
 .unitheading,.paper,.answers{
     display: flex;
     justify-content: center;
     font-weight: bolder;
     font-size: xx-large;
-    color: rgb(240, 117, 240);
+    color:  white;
 }
 .topicslist{
     font-size: larger;
     text-align: center;
 }
 .test1{
+    display:flex;
+    flex-direction:column;
+    background-color:  #1F2937;
+    color: white;
+    border-bottom: 5px solid #802BB1;
+    border-radius: 15px;
     
 }
 .bookscontainer{
@@ -40,7 +65,9 @@ body{
 .books{
     display:flex;
     flex-wrap: wrap;
+    flex-direction: row;
     justify-content: space-evenly;
+
 
 }
 .i{
@@ -65,15 +92,13 @@ a{
     justify-content: center;
 }
 button{
-    padding: 15px 20px;
-    width:200px;
-    background-color: rgb(201, 20, 201);
+    background-color: #3882F6;
+    padding:10px;
+    border-radius: 10px;
+    width:100px;
     color: white;
-    font-size: medium;
-    font-weight: bold;
-    margin-bottom: 20px;
-    border-radius: 15px;
-    border:4px solid black;
+    font-weight: bolder;
+    width:150px;
 }
 .ii{
     width: 300px;
