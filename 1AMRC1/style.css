@@ -75,7 +75,8 @@ body{
     height: auto;
 }
 a{
-    text-decoration: none;
+    text-decoration: ;
+    color: white;
 }
 .bookscontainerheading{
     font-size: xx-large;
