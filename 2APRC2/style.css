@@ -74,6 +74,14 @@ body{
     width:300px;
     height: auto;
 }
+.myname{
+    background-color: #1F2937;
+    color: gold;
+    text-align: center;
+    padding:15px;
+    font-weight: bolder;
+    font-size: large;
+}
 a{
     text-decoration: none;
     color: aqua;

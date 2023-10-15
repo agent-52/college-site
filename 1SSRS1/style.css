@@ -6,6 +6,14 @@ body{
     gap: 50px;
     
 }
+.myname{
+    background-color: #1F2937;
+    color: gold;
+    text-align: center;
+    padding:15px;
+    font-weight: bolder;
+    font-size: large;
+}
 .unitboxes{
     display: flex;
     flex-direction: row;

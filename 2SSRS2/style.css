@@ -39,7 +39,15 @@ body{
     justify-content: center;
     font-weight: bolder;
     font-size: xx-large;
-    color:  white;
+    color:  gold;
+}
+.myname{
+    background-color: #1F2937;
+    color: gold;
+    text-align: center;
+    padding:15px;
+    font-weight: bolder;
+    font-size: large;
 }
 .topicslist{
     font-size: larger;

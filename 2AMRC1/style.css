@@ -70,6 +70,14 @@ body{
 
 
 }
+.myname{
+    background-color: #1F2937;
+    color: gold;
+    text-align: center;
+    padding:15px;
+    font-weight: bolder;
+    font-size: large;
+}
 .i{
     width:300px;
     height: auto;

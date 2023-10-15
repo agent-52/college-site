@@ -50,6 +50,14 @@ a{
     margin-bottom: 50px;
     gap: 80px
 }
+.myname{
+    background-color: #1F2937;
+    color: gold;
+    text-align: center;
+    padding:15px;
+    font-weight: bolder;
+    font-size: large;
+}
 
 .box1-2-1 .box1heading{
     font-size: 48px;

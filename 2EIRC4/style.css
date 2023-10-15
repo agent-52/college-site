@@ -41,6 +41,14 @@ body{
     font-size: xx-large;
     color:  white;
 }
+.myname{
+    background-color: #1F2937;
+    color: gold;
+    text-align: center;
+    padding:15px;
+    font-weight: bolder;
+    font-size: large;
+}
 .topicslist{
     font-size: larger;
     text-align: center;
