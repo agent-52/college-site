@@ -1,0 +1,29 @@
+.boxcontainer{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #1F2937;
+    
+}
+.boxes{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    margin-top: 200px;
+
+}
+.i{
+    width: 300px;
+
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    color: gold;
+
+}
+body{
+    background-color:#1F2937 ;
+}
