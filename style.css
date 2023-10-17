@@ -123,6 +123,17 @@ a{
     align-items: ;
 
 }
+.announcements{
+    font-size: xx-large;
+    color: red;
+    font-weight: bolder;
+
+}
+#informations{
+    font-size: x-large;
+    font-weight: bold;
+    color: rgb(14, 233, 233);
+}
 .quote{
     font-family: light italic;
     font-size: 36px;
