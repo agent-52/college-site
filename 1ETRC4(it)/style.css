@@ -1,0 +1,116 @@
+body{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    gap: 50px;
+    
+}
+.unitboxes{
+    display: flex;
+    flex-direction: row;
+    background-color:  #1F2937;
+    color: white;
+    border-bottom: 5px solid #802BB1;
+    border-radius: 15px;
+    justify-content: space-evenly;
+    
+}
+
+.unitboxes .left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.iii{
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 400px;
+    height: auto;
+}
+
+.unitheading,.paper,.answers{
+    display: flex;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: xx-large;
+    color:  gold;
+}
+.myname{
+    background-color: #1F2937;
+    color: gold;
+    text-align: center;
+    padding:15px;
+    font-weight: bolder;
+    font-size: large;
+}
+.topicslist{
+    font-size: larger;
+    text-align: center;
+}
+.test1{
+    display:flex;
+    flex-direction:column;
+    background-color:  #1F2937;
+    color: white;
+    border-bottom: 5px solid #802BB1;
+    border-radius: 15px;
+    
+}
+.bookscontainer{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 5px solid gold;
+    border-radius: 15px;
+    gap:30px;
+    background-color: #E5E7EB;
+}
+.books{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+
+}
+.i{
+    width:300px;
+    height: auto;
+}
+a{
+    text-decoration: none;
+    color:aqua;
+}
+.bookscontainerheading{
+    font-size: xx-large;
+    color: #1F2937;
+    text-align: center;
+
+}
+.bookslink{
+    font-size: large;
+    color: #1F2937;
+}
+.buttoncontainer{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: #3882F6;
+    padding:10px;
+    border-radius: 10px;
+    width:100px;
+    color: white;
+    font-weight: bolder;
+    width:150px;
+}
+.ii{
+    width: 300px;
+}
+    
+
