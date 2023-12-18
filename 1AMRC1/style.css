@@ -52,6 +52,7 @@ body{
     color: white;
     border-bottom: 5px solid #802BB1;
     border-radius: 15px;
+    align-items: center;
     
 }
 .bookscontainer{
@@ -111,6 +112,38 @@ button{
     padding:15px;
     font-weight: bolder;
     font-size: large;
+}
+button{
+    background-color: #3882F6;
+    padding:10px;
+    border-radius: 10px;
+    width:100px;
+    color: white;
+    font-weight: bolder;
+    width:150px;
+    box-shadow: 2px 2px #96EFFF;
+}
+button:hover{
+    background-color: #96EFFF;
+    color: black;
+    box-shadow: 2px 2px #3882F6;
+    
+
+}
+
+.pyqbutton{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: #F1EAFF;
+    color: black;
+    box-shadow: 2px 3px blueviolet;
+    font-weight: bolder;
+}
+.pyqbutton:hover{
+    background-color: blueviolet;
+    box-shadow: 2px 3px #F1EAFF;
+    color: #F1EAFF;
+
 }
     
 

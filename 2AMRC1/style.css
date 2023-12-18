@@ -108,7 +108,30 @@ button{
     color: white;
     font-weight: bolder;
     width:150px;
+    box-shadow: 2px 2px #96EFFF;
 }
+button:hover{
+    background-color: #96EFFF;
+    color: black;
+    box-shadow: 2px 2px #3882F6;
+    
+
+}
+
+.pyqbutton{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    background-color: #F1EAFF;
+    color: black;
+    box-shadow: 2px 3px blueviolet;
+}
+.pyqbutton:hover{
+    background-color: blueviolet;
+    box-shadow: 2px 3px #F1EAFF;
+    color: #F1EAFF;
+
+}
+
 .ii{
     width: 300px;
 }
