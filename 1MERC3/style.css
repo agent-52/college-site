@@ -144,5 +144,17 @@ button:hover{
     color: #F1EAFF;
 
 }
+button{
+    background-color: #3882F6;
+    padding:25px 5px;
+    border-radius: 10px;
+    width:100px;
+    color: white;
+    font-weight: bolder;
+    width:250px;
+    font-size: large;
+
+    box-shadow: 2px 2px #96EFFF;
+}
     
 
